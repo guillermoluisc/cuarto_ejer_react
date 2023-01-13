@@ -1,6 +1,6 @@
 import './App.css'
 
-function Fisrtcomponent() {
+function Firstcomponent() {
  const nombre="Guillermo Luis"
  const apellidos="Casanova"
 
@@ -11,4 +11,4 @@ function Fisrtcomponent() {
   )
 }
 
-export default Fisrtcomponent
+export default Firstcomponent
