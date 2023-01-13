@@ -1,7 +1,9 @@
 import React from 'react'
 import ReactDOM from 'react-dom/client'
 import App from './App'
-import Firstcomponent from './Firstcomponent'
+// Anotación personal lo importante de importar una constante de una arrow fuction de un archivo jsx es hacerlo de esta manera, entre {}
+//se pueden importar varios componentes dentro de un mismo import separados por coma dentro de los {}
+import {Firstcomponent} from './Firstcomponent'
 import './index.css'
 
 ReactDOM.createRoot(document.getElementById('root')).render(
