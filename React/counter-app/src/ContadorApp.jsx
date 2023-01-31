@@ -1,7 +1,7 @@
 
 import PropTypes from 'prop-types'
 import './App.css'
-
+//opcion 2
 function ContadorApp({ value }) {
     const imprimeValor=()=>{
         console.log({value}.value)
