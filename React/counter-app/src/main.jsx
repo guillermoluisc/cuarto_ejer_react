@@ -11,6 +11,6 @@ ReactDOM.createRoot(document.getElementById('root')).render(
   <React.StrictMode>
     {/* <App />
     <Firstcomponent /> */}
-    <ContadorApp value={12334543535}/>
+    <ContadorApp value={5}/>
   </React.StrictMode>,
 )
